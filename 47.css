@@ -1,0 +1,13 @@
+ul{
+    list-style: none;
+}
+ul li {
+    padding: 8px 10px;
+    color: white;
+}
+ul li:nth-child(odd) {
+    background-color: red;
+}
+ul li:nth-child(even){
+    background-color: greenyellow;
+}
